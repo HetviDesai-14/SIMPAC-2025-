@@ -25,7 +25,7 @@ Key Features
 ________________________________________
 Installation
 Installation To use SSTAS, follow these steps:
-1.	Clone the repository: git clone 
+1.	Clone the repository: git clone https://github.com/HetviDesai-14/SIMPAC-2025-.git
 2.	Install dependencies: Ensure Python 3.8+ is installed. Then, install the required libraries: pip install -r requirements.txt
 3.	Download the dataset: The dataset is available on Mendeley Data(https://data.mendeley.com/datasets/hp2cdckpdr/2). Place it in the data/ directory. Usage
 4.	Data Preprocessing Preprocess the spectral data using the provided script: python scripts/preprocess_data.py
